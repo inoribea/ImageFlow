@@ -3,10 +3,10 @@ module github.com/Yuri-NagaSaki/ImageFlow
 go 1.22.2
 
 require (
-	github.com/aws/aws-sdk-go-v2 v1.25.2
-	github.com/aws/aws-sdk-go-v2/config v1.27.4
+	github.com/aws/aws-sdk-go-v2 v1.17.0
+	github.com/aws/aws-sdk-go-v2/config v1.18.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.4
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.51.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.29.0
 	github.com/joho/godotenv v1.5.1
 )
 
